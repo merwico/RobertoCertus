@@ -5,7 +5,7 @@ pipeline {
         stage('Preparar entorno') {
             steps {
                 echo "Creando entorno virtual..."
-                bat '"C:\\Users\\$$$$$$\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m venv venv'
+                bat '"C:\Users\ROBERTO\AppData\Local\Programs\Python\Python313\python.exe" -m venv venv'
                 bat 'venv\\Scripts\\activate && pip install -r requirements.txt'
             }
         }
@@ -13,7 +13,7 @@ pipeline {
         stage('Ejecutar script') {
             steps {
                 echo "Ejecutando script principal..."
-                bat 'venv\\Scripts\\activate && python src\\hello.py'
+                bat 'venv\\Scripts\\activate && python src\\Hola.py'
             }
         }
     }
