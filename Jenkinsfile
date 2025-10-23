@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_CRED = credentials('github-cred')
+        GIT_CRED_ID = 'github-cred'
     }
 
     stages {
@@ -13,15 +13,17 @@ pipeline {
                 bat 'venv\\Scripts\\activate && pip install -r requirements.txt'
             }
         }
-
+       
         stage('Configurar Git') {
             steps {
                 echo "Configurando credenciales de Git..."
-                bat """
-                git config --global user.name "Jenkins Bot"
-                git config --global user.email "jenkins@local"
-                git remote set-url origin https://${env.GIT_CRED_USR}:${env.GIT_CRED_PSW}@github.com/merwico/RobertoCertus.git
-                """
+                withCredentials([usernamePassword(credentialsId: "${GIT_CRED_ID}", usernameVariable: 'GIT_USER', passwordVariable: 'GIT_TOKEN')]) {
+                    bat '''
+                    git config --global user.name "Jenkins Bot"
+                    git config --global user.email "jenkins@local"
+                    git remote set-url origin https://github.com/merwico/RobertoCertus.git
+                    '''
+                }
             }
         }
 
