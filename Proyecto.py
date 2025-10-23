@@ -1,6 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import git
+import os
+from datetime import datetime
 
 # DEFININDO LOS ARCHIVOS
 archivo = "data.csv"
@@ -28,3 +31,9 @@ def main():
 
     print("\n📊 Resumen informacion general:")
     print(df.info())
+
+    # CREO LA CARPETA PARA GUARDAR LA INFO
+    os.makedirs(carpeta, exist_ok=True)
+    # PONIENDO NOMBRE AL ARCHIVO
+    fecha = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    ruta = os.path.join(carpeta, f"Grafico_ventas_{fecha}.png")
