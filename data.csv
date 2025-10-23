@@ -1,0 +1,201 @@
+﻿Fecha,ID_Venta,Material,Cantidad,Precio_Unitario_USD,Cliente,Región,Total_Venta_USD
+2025-09-15,VTA-1000,Bandejas portacables,148,144.0,Entel,Iquitos,21312.0
+2025-07-12,VTA-1001,Bandejas portacables,168,120.9,Entel,Iquitos,20311.2
+2025-08-18,VTA-1002,Bandejas portacables,11,59.37,Claro,Chiclayo,653.0699999999999
+2025-07-18,VTA-1003,Conectores SC/APC,23,138.36,Claro,Arequipa,3182.28
+2025-07-20,VTA-1004,Cable de fibra óptica monomodo,182,19.44,OpticNet,Chiclayo,3538.0800000000004
+2025-08-22,VTA-1005,Conectores LC/UPC,49,120.4,GTD,Piura,5899.6
+2025-08-18,VTA-1006,Conectores LC/UPC,103,103.18,GTD,Chiclayo,10627.54
+2025-07-06,VTA-1007,Conectores LC/UPC,84,18.22,Telecom Perú,Trujillo,1530.48
+2025-09-19,VTA-1008,Splitters ópticos 1x8,149,86.37,Bitel,Trujillo,12869.130000000001
+2025-08-19,VTA-1009,Gabinetes ODF,149,140.62,Movistar,Piura,20952.38
+2025-08-01,VTA-1010,Gabinetes ODF,76,45.13,Telecom Perú,Lima,3429.88
+2025-08-13,VTA-1011,Splitters ópticos 1x16,44,126.81,Telecom Perú,Trujillo,5579.64
+2025-07-26,VTA-1012,Splitters ópticos 1x8,107,51.66,GTD,Iquitos,5527.62
+2025-09-01,VTA-1013,Pigtails LC/UPC,130,147.69,GTD,Trujillo,19199.7
+2025-08-17,VTA-1014,Protectores de empalme,167,120.92,Entel,Lima,20193.64
+2025-07-19,VTA-1015,Gabinetes ODF,124,20.69,Entel,Lima,2565.56
+2025-08-25,VTA-1016,Tubo corrugado 40mm,72,26.17,OpticNet,Iquitos,1884.2400000000002
+2025-08-22,VTA-1017,Splitters ópticos 1x16,113,37.56,Bitel,Chiclayo,4244.280000000001
+2025-09-27,VTA-1018,Cable de fibra óptica multimodo,120,36.82,Entel,Chiclayo,4418.4
+2025-09-18,VTA-1019,Cable de fibra óptica multimodo,110,6.88,Telecom Perú,Lima,756.8
+2025-07-31,VTA-1020,Pigtails LC/UPC,95,5.23,GTD,Iquitos,496.85
+2025-09-06,VTA-1021,Cable de fibra óptica monomodo,72,139.35,OpticNet,Trujillo,10033.199999999999
+2025-07-02,VTA-1022,Gabinetes ODF,187,12.39,Movistar,Chiclayo,2316.9300000000003
+2025-08-24,VTA-1023,Empalmes mecánicos,199,128.73,Movistar,Piura,25617.269999999997
+2025-09-12,VTA-1024,Bandejas portacables,16,76.45,Entel,Piura,1223.2
+2025-09-25,VTA-1025,Tubo corrugado 40mm,84,20.39,Claro,Trujillo,1712.76
+2025-09-02,VTA-1026,Pigtails LC/UPC,101,92.04,GTD,Trujillo,9296.04
+2025-09-10,VTA-1027,Cable de fibra óptica multimodo,86,70.92,Movistar,Arequipa,6099.12
+2025-08-28,VTA-1028,Conectores SC/APC,103,121.07,Movistar,Piura,12470.21
+2025-09-07,VTA-1029,Empalmes mecánicos,142,54.05,Bitel,Piura,7675.099999999999
+2025-09-29,VTA-1030,Conectores SC/APC,114,111.1,Claro,Lima,12665.4
+2025-07-19,VTA-1031,Splitters ópticos 1x16,182,89.5,Movistar,Lima,16289.0
+2025-09-10,VTA-1032,Cable de fibra óptica multimodo,168,93.25,Telecom Perú,Trujillo,15666.0
+2025-07-18,VTA-1033,Tubo corrugado 40mm,186,134.14,OpticNet,Iquitos,24950.039999999997
+2025-07-14,VTA-1034,Tubo corrugado 40mm,59,116.83,Telecom Perú,Chiclayo,6892.97
+2025-07-01,VTA-1035,Bandejas portacables,9,64.19,GTD,Cusco,577.71
+2025-07-26,VTA-1036,Splitters ópticos 1x16,35,69.44,Claro,Piura,2430.4
+2025-08-25,VTA-1037,Cable de fibra óptica monomodo,142,70.69,Telecom Perú,Trujillo,10037.98
+2025-07-28,VTA-1038,Conectores SC/APC,114,140.48,Bitel,Cusco,16014.72
+2025-09-14,VTA-1039,Protectores de empalme,194,126.34,OpticNet,Cusco,24509.96
+2025-08-14,VTA-1040,Gabinetes ODF,149,61.44,Movistar,Iquitos,9154.56
+2025-09-08,VTA-1041,Cajas de distribución,21,50.44,Movistar,Trujillo,1059.24
+2025-09-04,VTA-1042,Conectores LC/UPC,77,76.38,OpticNet,Chiclayo,5881.259999999999
+2025-08-19,VTA-1043,Tubo corrugado 40mm,5,10.69,Claro,Arequipa,53.449999999999996
+2025-08-08,VTA-1044,Cable de fibra óptica multimodo,45,125.5,GTD,Arequipa,5647.5
+2025-08-13,VTA-1045,Tubo corrugado 40mm,68,84.06,Claro,Cusco,5716.08
+2025-09-04,VTA-1046,Tubo corrugado 40mm,20,27.87,Claro,Cusco,557.4
+2025-08-16,VTA-1047,Splitters ópticos 1x8,16,25.96,Movistar,Lima,415.36
+2025-09-18,VTA-1048,Empalmes mecánicos,194,57.95,OpticNet,Trujillo,11242.300000000001
+2025-08-10,VTA-1049,Cable de fibra óptica monomodo,116,142.93,Movistar,Piura,16579.88
+2025-08-29,VTA-1050,Empalmes mecánicos,13,46.67,GTD,Arequipa,606.71
+2025-09-09,VTA-1051,Empalmes mecánicos,87,82.77,GTD,Lima,7200.99
+2025-08-10,VTA-1052,Splitters ópticos 1x8,134,31.31,Movistar,Lima,4195.54
+2025-09-15,VTA-1053,Protectores de empalme,106,69.6,Telecom Perú,Lima,7377.599999999999
+2025-07-05,VTA-1054,Conectores SC/APC,96,32.16,GTD,Iquitos,3087.3599999999997
+2025-07-08,VTA-1055,Empalmes mecánicos,94,119.71,Claro,Chiclayo,11252.74
+2025-08-18,VTA-1056,Empalmes mecánicos,42,60.96,Telecom Perú,Lima,2560.32
+2025-09-24,VTA-1057,Empalmes mecánicos,53,82.81,OpticNet,Iquitos,4388.93
+2025-09-14,VTA-1058,Conectores LC/UPC,60,96.27,Movistar,Arequipa,5776.2
+2025-09-22,VTA-1059,Splitters ópticos 1x8,174,104.28,GTD,Cusco,18144.72
+2025-07-23,VTA-1060,Cable de fibra óptica multimodo,27,108.51,Movistar,Arequipa,2929.77
+2025-08-13,VTA-1061,Pigtails SC/APC,160,138.69,Claro,Trujillo,22190.4
+2025-08-24,VTA-1062,Conectores SC/APC,43,123.97,Bitel,Arequipa,5330.71
+2025-09-12,VTA-1063,Protectores de empalme,93,121.98,OpticNet,Piura,11344.140000000001
+2025-07-30,VTA-1064,Conectores LC/UPC,151,123.63,OpticNet,Piura,18668.13
+2025-08-18,VTA-1065,Conectores LC/UPC,142,2.62,Telecom Perú,Piura,372.04
+2025-09-05,VTA-1066,Bandejas portacables,149,112.69,Entel,Lima,16790.81
+2025-09-23,VTA-1067,Splitters ópticos 1x16,136,132.16,OpticNet,Iquitos,17973.76
+2025-09-13,VTA-1068,Tubo corrugado 40mm,158,96.1,OpticNet,Iquitos,15183.8
+2025-08-15,VTA-1069,Conectores SC/APC,179,62.64,OpticNet,Trujillo,11212.56
+2025-07-04,VTA-1070,Splitters ópticos 1x8,88,70.89,Telecom Perú,Lima,6238.32
+2025-07-04,VTA-1071,Cajas de distribución,74,96.09,Claro,Chiclayo,7110.66
+2025-07-05,VTA-1072,Cajas de distribución,49,64.44,Telecom Perú,Trujillo,3157.56
+2025-07-20,VTA-1073,Cajas de distribución,142,84.88,Telecom Perú,Piura,12052.96
+2025-08-17,VTA-1074,Protectores de empalme,71,21.95,Bitel,Chiclayo,1558.45
+2025-08-21,VTA-1075,Pigtails LC/UPC,141,112.69,GTD,Lima,15889.289999999999
+2025-08-20,VTA-1076,Protectores de empalme,88,123.6,Movistar,Iquitos,10876.8
+2025-09-05,VTA-1077,Cable de fibra óptica multimodo,154,30.66,Telecom Perú,Trujillo,4721.64
+2025-07-09,VTA-1078,Conectores SC/APC,44,147.41,Telecom Perú,Piura,6486.04
+2025-08-21,VTA-1079,Cable de fibra óptica monomodo,94,133.04,OpticNet,Lima,12505.759999999998
+2025-09-28,VTA-1080,Protectores de empalme,145,45.92,Entel,Cusco,6658.400000000001
+2025-09-27,VTA-1081,Cable de fibra óptica multimodo,124,56.3,Telecom Perú,Chiclayo,6981.2
+2025-08-14,VTA-1082,Tubo corrugado 40mm,11,87.97,Telecom Perú,Cusco,967.67
+2025-09-29,VTA-1083,Protectores de empalme,104,110.72,Movistar,Lima,11514.88
+2025-08-09,VTA-1084,Pigtails LC/UPC,32,13.22,Entel,Cusco,423.04
+2025-09-27,VTA-1085,Protectores de empalme,73,50.51,OpticNet,Piura,3687.23
+2025-09-07,VTA-1086,Cable de fibra óptica monomodo,107,71.63,Entel,Piura,7664.41
+2025-09-20,VTA-1087,Pigtails SC/APC,68,132.88,Claro,Cusco,9035.84
+2025-08-10,VTA-1088,Conectores SC/APC,190,78.5,Entel,Lima,14915.0
+2025-07-20,VTA-1089,Pigtails SC/APC,51,86.34,Telecom Perú,Arequipa,4403.34
+2025-07-29,VTA-1090,Bandejas portacables,186,15.93,Movistar,Cusco,2962.98
+2025-09-14,VTA-1091,Pigtails SC/APC,83,37.35,Movistar,Iquitos,3100.05
+2025-07-10,VTA-1092,Protectores de empalme,131,130.64,Telecom Perú,Cusco,17113.839999999997
+2025-07-03,VTA-1093,Conectores LC/UPC,182,130.33,Telecom Perú,Iquitos,23720.06
+2025-09-05,VTA-1094,Splitters ópticos 1x8,105,50.7,OpticNet,Cusco,5323.5
+2025-09-06,VTA-1095,Pigtails SC/APC,19,49.99,Entel,Arequipa,949.8100000000001
+2025-09-28,VTA-1096,Conectores LC/UPC,144,35.17,Claro,Iquitos,5064.4800000000005
+2025-08-17,VTA-1097,Conectores LC/UPC,34,58.29,GTD,Chiclayo,1981.86
+2025-09-08,VTA-1098,Cable de fibra óptica multimodo,78,98.13,Bitel,Arequipa,7654.139999999999
+2025-08-11,VTA-1099,Tubo corrugado 40mm,149,29.05,Telecom Perú,Iquitos,4328.45
+2025-09-29,VTA-1100,Cable de fibra óptica monomodo,96,144.76,Entel,Chiclayo,13896.96
+2025-09-14,VTA-1101,Protectores de empalme,189,35.48,Claro,Piura,6705.719999999999
+2025-09-26,VTA-1102,Pigtails SC/APC,117,82.89,Telecom Perú,Iquitos,9698.13
+2025-09-22,VTA-1103,Bandejas portacables,180,54.59,Movistar,Lima,9826.2
+2025-09-15,VTA-1104,Protectores de empalme,30,36.45,GTD,Piura,1093.5
+2025-07-18,VTA-1105,Conectores LC/UPC,50,62.85,GTD,Lima,3142.5
+2025-07-31,VTA-1106,Splitters ópticos 1x8,40,110.21,Bitel,Cusco,4408.4
+2025-09-10,VTA-1107,Cable de fibra óptica multimodo,63,91.29,Movistar,Cusco,5751.27
+2025-08-26,VTA-1108,Gabinetes ODF,94,106.55,Telecom Perú,Iquitos,10015.699999999999
+2025-08-17,VTA-1109,Pigtails SC/APC,17,9.51,Movistar,Lima,161.67
+2025-08-01,VTA-1110,Cable de fibra óptica multimodo,163,17.13,Entel,Trujillo,2792.19
+2025-08-25,VTA-1111,Tubo corrugado 40mm,152,101.17,OpticNet,Piura,15377.84
+2025-07-03,VTA-1112,Splitters ópticos 1x8,31,37.63,Movistar,Chiclayo,1166.53
+2025-08-24,VTA-1113,Cable de fibra óptica monomodo,90,80.41,OpticNet,Trujillo,7236.9
+2025-09-21,VTA-1114,Conectores SC/APC,188,103.89,OpticNet,Arequipa,19531.32
+2025-07-26,VTA-1115,Splitters ópticos 1x8,31,48.98,OpticNet,Piura,1518.3799999999999
+2025-08-04,VTA-1116,Gabinetes ODF,117,123.99,OpticNet,Chiclayo,14506.83
+2025-09-20,VTA-1117,Empalmes mecánicos,54,43.24,Claro,Chiclayo,2334.96
+2025-08-06,VTA-1118,Pigtails LC/UPC,158,24.57,Claro,Iquitos,3882.06
+2025-07-24,VTA-1119,Empalmes mecánicos,91,4.06,Movistar,Arequipa,369.46
+2025-09-13,VTA-1120,Cajas de distribución,9,37.25,Claro,Piura,335.25
+2025-08-13,VTA-1121,Conectores LC/UPC,48,103.22,Movistar,Iquitos,4954.5599999999995
+2025-08-27,VTA-1122,Pigtails SC/APC,154,100.58,Bitel,Piura,15489.32
+2025-08-14,VTA-1123,Splitters ópticos 1x16,188,23.28,Movistar,Cusco,4376.64
+2025-09-03,VTA-1124,Empalmes mecánicos,14,35.26,Bitel,Cusco,493.64
+2025-09-25,VTA-1125,Tubo corrugado 40mm,180,28.85,Movistar,Trujillo,5193.0
+2025-08-02,VTA-1126,Splitters ópticos 1x8,166,48.76,OpticNet,Lima,8094.16
+2025-08-09,VTA-1127,Pigtails LC/UPC,77,124.78,Telecom Perú,Lima,9608.06
+2025-08-22,VTA-1128,Cable de fibra óptica monomodo,72,111.04,OpticNet,Arequipa,7994.88
+2025-08-05,VTA-1129,Cable de fibra óptica multimodo,62,127.59,GTD,Chiclayo,7910.58
+2025-07-02,VTA-1130,Cable de fibra óptica monomodo,20,38.35,GTD,Lima,767.0
+2025-07-28,VTA-1131,Splitters ópticos 1x8,6,73.25,OpticNet,Lima,439.5
+2025-07-20,VTA-1132,Cable de fibra óptica monomodo,27,143.22,OpticNet,Iquitos,3866.94
+2025-09-14,VTA-1133,Tubo corrugado 40mm,193,112.87,Entel,Cusco,21783.91
+2025-09-21,VTA-1134,Cable de fibra óptica multimodo,29,95.05,Movistar,Piura,2756.45
+2025-07-27,VTA-1135,Conectores SC/APC,48,123.8,OpticNet,Arequipa,5942.4
+2025-09-11,VTA-1136,Cable de fibra óptica monomodo,98,51.66,Movistar,Piura,5062.679999999999
+2025-08-16,VTA-1137,Bandejas portacables,19,93.79,GTD,Chiclayo,1782.0100000000002
+2025-08-16,VTA-1138,Bandejas portacables,151,93.32,Movistar,Trujillo,14091.32
+2025-07-19,VTA-1139,Pigtails LC/UPC,38,118.92,Claro,Arequipa,4518.96
+2025-07-09,VTA-1140,Pigtails LC/UPC,18,75.26,Telecom Perú,Arequipa,1354.68
+2025-07-30,VTA-1141,Gabinetes ODF,39,23.74,Telecom Perú,Piura,925.8599999999999
+2025-09-22,VTA-1142,Pigtails LC/UPC,108,47.16,Claro,Chiclayo,5093.28
+2025-09-25,VTA-1143,Gabinetes ODF,151,73.5,GTD,Lima,11098.5
+2025-09-04,VTA-1144,Pigtails LC/UPC,50,124.76,Claro,Trujillo,6238.0
+2025-07-17,VTA-1145,Conectores SC/APC,175,59.33,Claro,Iquitos,10382.75
+2025-09-16,VTA-1146,Splitters ópticos 1x8,152,113.72,Bitel,Lima,17285.44
+2025-09-27,VTA-1147,Conectores SC/APC,194,65.3,Telecom Perú,Lima,12668.199999999999
+2025-08-17,VTA-1148,Cajas de distribución,149,143.49,Movistar,Lima,21380.010000000002
+2025-07-08,VTA-1149,Empalmes mecánicos,23,44.3,Movistar,Cusco,1018.9
+2025-09-04,VTA-1150,Conectores LC/UPC,84,94.25,Telecom Perú,Piura,7917.0
+2025-07-22,VTA-1151,Conectores SC/APC,16,97.16,Claro,Trujillo,1554.56
+2025-07-25,VTA-1152,Cable de fibra óptica multimodo,129,41.2,Movistar,Chiclayo,5314.8
+2025-09-28,VTA-1153,Protectores de empalme,17,115.22,Telecom Perú,Chiclayo,1958.74
+2025-09-02,VTA-1154,Cable de fibra óptica monomodo,196,98.03,Bitel,Cusco,19213.88
+2025-08-07,VTA-1155,Cable de fibra óptica multimodo,160,111.37,OpticNet,Piura,17819.2
+2025-08-19,VTA-1156,Gabinetes ODF,49,131.97,GTD,Iquitos,6466.53
+2025-09-15,VTA-1157,Cajas de distribución,80,41.72,Telecom Perú,Lima,3337.6
+2025-09-19,VTA-1158,Protectores de empalme,160,143.74,GTD,Trujillo,22998.4
+2025-07-24,VTA-1159,Tubo corrugado 40mm,176,29.36,Claro,Lima,5167.36
+2025-08-30,VTA-1160,Pigtails LC/UPC,124,110.19,Bitel,Chiclayo,13663.56
+2025-09-15,VTA-1161,Splitters ópticos 1x8,53,16.81,Telecom Perú,Lima,890.93
+2025-08-05,VTA-1162,Conectores SC/APC,129,72.39,OpticNet,Lima,9338.31
+2025-09-19,VTA-1163,Bandejas portacables,114,110.84,Entel,Chiclayo,12635.76
+2025-08-25,VTA-1164,Gabinetes ODF,137,11.29,OpticNet,Chiclayo,1546.7299999999998
+2025-07-13,VTA-1165,Cable de fibra óptica monomodo,198,28.95,GTD,Piura,5732.099999999999
+2025-09-20,VTA-1166,Tubo corrugado 40mm,76,69.68,Telecom Perú,Piura,5295.68
+2025-08-16,VTA-1167,Cable de fibra óptica multimodo,76,44.88,Telecom Perú,Trujillo,3410.88
+2025-09-12,VTA-1168,Protectores de empalme,108,137.64,Bitel,Lima,14865.119999999999
+2025-09-10,VTA-1169,Pigtails SC/APC,150,79.65,Telecom Perú,Arequipa,11947.5
+2025-09-16,VTA-1170,Splitters ópticos 1x16,43,63.44,Bitel,Piura,2727.92
+2025-08-14,VTA-1171,Cable de fibra óptica multimodo,136,45.12,GTD,Piura,6136.32
+2025-07-18,VTA-1172,Splitters ópticos 1x8,11,9.67,Movistar,Trujillo,106.37
+2025-09-06,VTA-1173,Cable de fibra óptica multimodo,190,2.84,GTD,Trujillo,539.6
+2025-07-16,VTA-1174,Pigtails SC/APC,142,56.82,Movistar,Cusco,8068.44
+2025-08-06,VTA-1175,Gabinetes ODF,154,105.96,Movistar,Iquitos,16317.839999999998
+2025-07-23,VTA-1176,Bandejas portacables,120,19.55,Telecom Perú,Iquitos,2346.0
+2025-07-11,VTA-1177,Conectores LC/UPC,29,72.76,Telecom Perú,Piura,2110.04
+2025-07-12,VTA-1178,Tubo corrugado 40mm,124,16.57,Movistar,Trujillo,2054.68
+2025-09-21,VTA-1179,Cable de fibra óptica multimodo,78,8.94,Movistar,Chiclayo,697.3199999999999
+2025-09-05,VTA-1180,Pigtails SC/APC,73,109.82,OpticNet,Arequipa,8016.86
+2025-07-06,VTA-1181,Splitters ópticos 1x16,132,113.65,Movistar,Arequipa,15001.800000000001
+2025-09-17,VTA-1182,Bandejas portacables,63,64.02,GTD,Cusco,4033.2599999999998
+2025-07-28,VTA-1183,Pigtails LC/UPC,171,73.13,Entel,Lima,12505.23
+2025-08-23,VTA-1184,Pigtails SC/APC,6,67.37,Claro,Piura,404.22
+2025-09-09,VTA-1185,Conectores SC/APC,14,80.27,OpticNet,Chiclayo,1123.78
+2025-08-08,VTA-1186,Protectores de empalme,133,78.54,Bitel,Trujillo,10445.820000000002
+2025-09-18,VTA-1187,Protectores de empalme,112,97.23,Entel,Cusco,10889.76
+2025-07-31,VTA-1188,Conectores SC/APC,194,142.46,GTD,Cusco,27637.24
+2025-07-06,VTA-1189,Splitters ópticos 1x16,36,73.01,Telecom Perú,Iquitos,2628.36
+2025-07-22,VTA-1190,Empalmes mecánicos,77,19.29,Bitel,Cusco,1485.33
+2025-09-29,VTA-1191,Conectores LC/UPC,46,15.06,Entel,Lima,692.76
+2025-07-24,VTA-1192,Gabinetes ODF,125,108.78,Movistar,Trujillo,13597.5
+2025-09-08,VTA-1193,Empalmes mecánicos,197,12.44,GTD,Lima,2450.68
+2025-09-20,VTA-1194,Tubo corrugado 40mm,32,29.73,Claro,Trujillo,951.36
+2025-09-04,VTA-1195,Pigtails LC/UPC,167,26.99,Telecom Perú,Iquitos,4507.33
+2025-09-15,VTA-1196,Conectores SC/APC,115,36.1,Claro,Piura,4151.5
+2025-07-08,VTA-1197,Cajas de distribución,139,126.86,Telecom Perú,Lima,17633.54
+2025-09-22,VTA-1198,Cable de fibra óptica monomodo,191,115.74,Movistar,Piura,22106.34
+2025-07-28,VTA-1199,Protectores de empalme,110,107.96,Entel,Iquitos,11875.599999999999
