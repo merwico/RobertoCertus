@@ -44,3 +44,19 @@ def main():
     # Guardar la fecha y ruta del archivo
     fecha = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
     ruta = os.path.join(carpeta, f"Grafico_ventas_{fecha}.png")
+
+    # Generar grafico de la data
+    try:
+        plt.figure(figsize=(10, 6))
+        columna.plot(ax=plt.gca())
+        plt.title("Análisis de Ventas - Columnas Numéricas")
+        plt.xlabel("Registros")
+        plt.ylabel("Valores")
+        plt.grid(True)
+        plt.tight_layout()
+        plt.savefig(ruta)
+        plt.close()
+        print(f"\nGráfico generado y guardado en: {ruta}")
+    except Exception as e:
+        print(f"Error al generar el gráfico: {e}")
+        return
