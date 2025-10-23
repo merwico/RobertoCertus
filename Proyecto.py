@@ -33,3 +33,14 @@ def main():
 
     print("\n📊 Resumen informacion general:")
     print(df.info())
+    
+    # CREO LA CARPETA PARA GUARDAR LA INFO
+    os.makedirs(carpeta, exist_ok=True)
+    # Valido si es que existen columnas
+    columna = df.select_dtypes(include=[np.number])
+    if columna.empty:
+        print("\n.....No hay columnas para graficar.....")
+        return
+    # Guardar la fecha y ruta del archivo
+    fecha = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    ruta = os.path.join(carpeta, f"Grafico_ventas_{fecha}.png")
