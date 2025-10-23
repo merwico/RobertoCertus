@@ -4,6 +4,7 @@ import numpy as np
 
 # DEFININDO LOS ARCHIVOS
 archivo = "data.csv"
+carpeta = "Resultados"
 
 def main():
     print("🚀 Iniciando análisis automático de datos de ventas...")
@@ -20,3 +21,10 @@ def main():
     except Exception as e:
         print(f"❌ Error al leer el archivo CSV: {e}")
         return
+        
+    # IMPRIMO PARA VERIFICAR INFO
+    print("\n✅ Primeras filas de los datos:")
+    print(df.head())
+
+    print("\n📊 Resumen informacion general:")
+    print(df.info())
