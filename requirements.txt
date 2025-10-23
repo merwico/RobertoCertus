@@ -1,6 +1,4 @@
 pandas
 numpy
 matplotlib
-git
-os
 gitpython
