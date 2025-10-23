@@ -19,21 +19,21 @@ pipeline {
                 echo "Configurando credenciales de Git..."
                 withCredentials([usernamePassword(credentialsId: "${GIT_CRED_ID}", usernameVariable: 'GIT_USER', passwordVariable: 'GIT_TOKEN')]) {
                     bat '''
-                    git config --global user.name "Jenkins Bot"
-                    git config --global user.email "jenkins@local"
-                    git remote set-url origin https://github.com/merwico/RobertoCertus.git
+                    "C:\\Program Files\\Git\\bin\\git.exe" config --global user.name "Jenkins Bot"
+                    "C:\\Program Files\\Git\\bin\\git.exe" config --global user.email "jenkins@local"
+                    "C:\\Program Files\\Git\\bin\\git.exe" remote set-url origin https://%GIT_USER%:%GIT_TOKEN%@github.com/merwico/RobertoCertus.git
                     '''
+                    }
                 }
             }
-        }
 
         stage('Ejecutar script') {
             steps {
                 echo "Ejecutando script principal..."
                 bat 'venv\\Scripts\\activate && python Proyecto.py'
+                }
             }
         }
-    }
 
     post {
         success { echo "✅ Pipeline completado con éxito" }
