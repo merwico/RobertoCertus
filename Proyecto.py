@@ -60,3 +60,18 @@ def main():
     except Exception as e:
         print(f"Error al generar el gráfico: {e}")
         return
+        
+    # Guardar los graficos generados
+    try:
+        print("\nSubiendo gráfico al repositorio")
+        repo = git.Repo(os.getcwd())
+        repo.git.add(ruta)
+        commit_msg = f"📊 Actualización automática del gráfico de ventas ({fecha})"
+        repo.index.commit(commit_msg)
+        origin = repo.remote(name='origin')
+        origin.push()
+        print("✅ Gráfico subido correctamente al repositorio en la carpeta 'Resultados'.")
+    except Exception as e:
+        print(f"⚠️ No se pudo subir el gráfico a Git: {e}")
+
+    print("\n🎉 Proceso completado correctamente.")
