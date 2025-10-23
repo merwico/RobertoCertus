@@ -9,7 +9,7 @@ archivo = "data.csv"
 carpeta = "Resultados"
 
 def main():
-    print("🚀 Iniciando análisis automático de datos de ventas...")
+    print("🚀 Iniciando análisis automático de datos de ventas")
     print(f"📂 Archivo de origen: {archivo}")
 
     # VERIFICAMOS QUE EXISTA EL ARCHIVO
@@ -37,7 +37,7 @@ def main():
     # Valido si es que existen columnas en mi archivo
     columna = df.select_dtypes(include=[np.number])
     if columna.empty:
-        print("\n.....No hay columnas para graficar.....")
+        print("\nNo hay columnas para graficar.")
         return
         
     # PONIENDO NOMBRE AL ARCHIVO
@@ -55,7 +55,7 @@ def main():
         plt.tight_layout()
         plt.savefig(ruta)
         plt.close()
-        print(f"\n.....Gráfico generado y guardado en: {ruta}")
+        print(f"\nGráfico generado y guardado en: {ruta}")
     except Exception as e:
         print(f".....Error al generar el gráfico: {e}")
         return
