@@ -9,8 +9,6 @@ pipeline {
         stage('Preparar entorno') {
             steps {
                 echo "Creando entorno virtual..."
-                echo "Antigua ruta C:\\Users\\ROBERTO\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
-                echo "Nueva ruta C:\\Usersv\malu3\\AppData\\Local\\Programs\\Python\\Python314\\python.exe"
                 bat '"C:\\Usersv\malu3\\AppData\\Local\\Programs\\Python\\Python314\\python.exe" -m venv venv'
                 bat 'venv\\Scripts\\activate && pip install -r requirements.txt'
             }
