@@ -13,7 +13,7 @@ pipeline {
         stage('Ejecutar script') {
             steps {
                 echo "Ejecutando script principal..."
-                bat 'venv\\Scripts\\activate && python Hola.py'
+                bat 'venv\\Scripts\\activate && python Proyecto.py'
             }
         }
     }
