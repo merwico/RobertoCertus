@@ -26,3 +26,10 @@ def main():
     if df.empty:
         print("⚠️ El archivo CSV está vacío. No se generará gráfico.")
         return
+        
+    #Imprimo los datos
+    print("\n✅ Primeras filas de los datos:")
+    print(df.head())
+
+    print("\n📊 Resumen informacion general:")
+    print(df.info())
