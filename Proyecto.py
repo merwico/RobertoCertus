@@ -59,8 +59,6 @@ def main():
     except Exception as e:
         print(f".....Error al generar el gráfico: {e}")
         return
-
 #Llamo la funcion
-if __name__ == "__main__":
-    main()
+main()
 
