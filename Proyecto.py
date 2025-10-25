@@ -74,6 +74,6 @@ def main():
     except Exception as e:
         print(f"⚠️ No se pudo subir el gráfico a Git: {e}")
 
-main()
-
     print("\n🎉 Proceso completado correctamente.")
+
+main()
