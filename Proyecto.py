@@ -75,5 +75,3 @@ def main():
         print(f"⚠️ No se pudo subir el gráfico a Git: {e}")
 
     print("\n🎉 Proceso completado correctamente.")
-
-main()
